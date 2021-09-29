@@ -1,0 +1,5 @@
+{
+  "installDependencies": true,
+  "startCommand": "npm run start",
+  "startCommand-old": "npx nodemon server.js"
+}
